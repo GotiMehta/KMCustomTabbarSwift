@@ -1,4 +1,4 @@
-# customTabbar_Swift
+# KMCustomTabbarSwift
 Import only two classes. Change the existing images with yours. Add Delegate methods in AppDelegate class. Hurray!!! You've your custom tab bar. Enjoy.
 
 In ViewControllers in which you want to add Tab bar:
